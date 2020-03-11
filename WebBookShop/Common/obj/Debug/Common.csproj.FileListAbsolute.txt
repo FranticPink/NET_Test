@@ -1,0 +1,17 @@
+C:\Users\Administrator.PC-201601311319\Desktop\WebBookShop\Common\bin\Debug\BookShop.Common.dll
+C:\Users\Administrator.PC-201601311319\Desktop\WebBookShop\Common\bin\Debug\BookShop.Common.pdb
+C:\Users\Administrator.PC-201601311319\Desktop\WebBookShop\Common\bin\Debug\COM.Excel.dll
+C:\Users\Administrator.PC-201601311319\Desktop\WebBookShop\Common\bin\Debug\Excel.dll
+C:\Users\Administrator.PC-201601311319\Desktop\WebBookShop\Common\bin\Debug\OpenSmtp.dll
+C:\Users\Administrator.PC-201601311319\Desktop\WebBookShop\Common\bin\Debug\OWC10Chart.dll
+C:\Users\Administrator.PC-201601311319\Desktop\WebBookShop\Common\obj\Debug\BookShop.Common.dll
+C:\Users\Administrator.PC-201601311319\Desktop\WebBookShop\Common\obj\Debug\BookShop.Common.pdb
+D:\桌面2016\彭晶的资料\数据库课程设计源码及报告\WebBookShop\Common\bin\Debug\BookShop.Common.dll
+D:\桌面2016\彭晶的资料\数据库课程设计源码及报告\WebBookShop\Common\bin\Debug\BookShop.Common.pdb
+D:\桌面2016\彭晶的资料\数据库课程设计源码及报告\WebBookShop\Common\bin\Debug\COM.Excel.dll
+D:\桌面2016\彭晶的资料\数据库课程设计源码及报告\WebBookShop\Common\bin\Debug\Excel.dll
+D:\桌面2016\彭晶的资料\数据库课程设计源码及报告\WebBookShop\Common\bin\Debug\OpenSmtp.dll
+D:\桌面2016\彭晶的资料\数据库课程设计源码及报告\WebBookShop\Common\bin\Debug\OWC10Chart.dll
+D:\桌面2016\彭晶的资料\数据库课程设计源码及报告\WebBookShop\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\桌面2016\彭晶的资料\数据库课程设计源码及报告\WebBookShop\Common\obj\Debug\BookShop.Common.dll
+D:\桌面2016\彭晶的资料\数据库课程设计源码及报告\WebBookShop\Common\obj\Debug\BookShop.Common.pdb

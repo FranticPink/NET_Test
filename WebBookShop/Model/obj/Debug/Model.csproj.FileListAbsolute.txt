@@ -1,0 +1,9 @@
+C:\Users\Administrator.PC-201601311319\Desktop\WebBookShop\Model\bin\Debug\BookShop.Model.dll
+C:\Users\Administrator.PC-201601311319\Desktop\WebBookShop\Model\bin\Debug\BookShop.Model.pdb
+C:\Users\Administrator.PC-201601311319\Desktop\WebBookShop\Model\obj\Debug\BookShop.Model.dll
+C:\Users\Administrator.PC-201601311319\Desktop\WebBookShop\Model\obj\Debug\BookShop.Model.pdb
+D:\桌面2016\彭晶的资料\数据库课程设计源码及报告\WebBookShop\Model\bin\Debug\BookShop.Model.dll
+D:\桌面2016\彭晶的资料\数据库课程设计源码及报告\WebBookShop\Model\bin\Debug\BookShop.Model.pdb
+D:\桌面2016\彭晶的资料\数据库课程设计源码及报告\WebBookShop\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\桌面2016\彭晶的资料\数据库课程设计源码及报告\WebBookShop\Model\obj\Debug\BookShop.Model.dll
+D:\桌面2016\彭晶的资料\数据库课程设计源码及报告\WebBookShop\Model\obj\Debug\BookShop.Model.pdb

@@ -1,0 +1,17 @@
+C:\Users\Administrator.PC-201601311319\Desktop\WebBookShop\DBUtility\bin\Debug\BookShop.DBUtility.dll
+C:\Users\Administrator.PC-201601311319\Desktop\WebBookShop\DBUtility\bin\Debug\BookShop.DBUtility.pdb
+C:\Users\Administrator.PC-201601311319\Desktop\WebBookShop\DBUtility\bin\Debug\IBatisNet.Common.dll
+C:\Users\Administrator.PC-201601311319\Desktop\WebBookShop\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+C:\Users\Administrator.PC-201601311319\Desktop\WebBookShop\DBUtility\bin\Debug\MySql.Data.dll
+C:\Users\Administrator.PC-201601311319\Desktop\WebBookShop\DBUtility\bin\Debug\System.Data.SQLite.DLL
+C:\Users\Administrator.PC-201601311319\Desktop\WebBookShop\DBUtility\obj\Debug\BookShop.DBUtility.dll
+C:\Users\Administrator.PC-201601311319\Desktop\WebBookShop\DBUtility\obj\Debug\BookShop.DBUtility.pdb
+D:\桌面2016\彭晶的资料\数据库课程设计源码及报告\WebBookShop\DBUtility\bin\Debug\BookShop.DBUtility.dll
+D:\桌面2016\彭晶的资料\数据库课程设计源码及报告\WebBookShop\DBUtility\bin\Debug\BookShop.DBUtility.pdb
+D:\桌面2016\彭晶的资料\数据库课程设计源码及报告\WebBookShop\DBUtility\bin\Debug\IBatisNet.Common.dll
+D:\桌面2016\彭晶的资料\数据库课程设计源码及报告\WebBookShop\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+D:\桌面2016\彭晶的资料\数据库课程设计源码及报告\WebBookShop\DBUtility\bin\Debug\MySql.Data.dll
+D:\桌面2016\彭晶的资料\数据库课程设计源码及报告\WebBookShop\DBUtility\bin\Debug\System.Data.SQLite.DLL
+D:\桌面2016\彭晶的资料\数据库课程设计源码及报告\WebBookShop\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+D:\桌面2016\彭晶的资料\数据库课程设计源码及报告\WebBookShop\DBUtility\obj\Debug\BookShop.DBUtility.dll
+D:\桌面2016\彭晶的资料\数据库课程设计源码及报告\WebBookShop\DBUtility\obj\Debug\BookShop.DBUtility.pdb

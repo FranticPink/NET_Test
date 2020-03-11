@@ -1,0 +1,247 @@
+﻿body
+{
+	padding: 0px;
+	margin: 0px;
+}
+
+/*——————————Banner——————————*/
+.DivBox
+{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 0px;
+    z-index: 0;
+}
+.BannerDiv
+{
+    background-image: url('image/Main.png');
+    position: relative;
+    border: 0px;
+    width: 1349px;
+    height: 148px;
+    z-index: 1;
+}
+.Banner1
+{
+    background-image: url('image/logo.png');
+    position: relative;
+    border: 0px;
+    width: 1349px;
+    height: 148px;
+    z-index: 1;
+}
+.LoginInfoDiv
+{
+    position: absolute;
+    top: 83px;
+    left: 20px;
+    color: #000;
+}
+
+.MainContentDiv
+{
+    height: auto !important;
+    height: 525px;
+    min-height: 525px;
+}
+.BannerDiv #RoleSelectDiv
+{
+    position: absolute;
+    right: 90px;
+    top: 83px;
+    height: 28px;
+    width: 60px;
+}
+.BannerDiv #LoginStatusDiv
+{
+    position: absolute;
+    right: 20px;
+    top: 83px;
+    height: 28px;
+    width: 50px;
+}
+.Banner1 #LoginStatusDiv1
+{
+    position: absolute;
+    right: 20px;
+    top: 83px;
+    height: 28px;
+    width: 50px;
+}
+.LoginBody
+{
+}
+.LoginPanel
+{
+    width: 479px;
+    height: 290px;
+    background-image: url('image/登录.jpg');
+}
+#lblUserName
+{
+	position: absolute;
+	text-align: left;
+	top: 24px;
+	left: 1038px;
+	font-size: 16px;
+	color: #993300;
+}
+
+#btnQuit
+{
+	position: absolute;
+	text-align: left;
+	top: 75px;
+	right: 20px;
+	font-size: 14px;
+	color: #993300;
+}
+
+.Navigate
+{
+	background-color: #20CCDF;
+	height: 30px;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	float: left;
+}
+
+.Navigate a
+{
+	color: White;
+	float: left;
+	text-align: center;
+	text-decoration: none;
+	padding: 0.2em 0.5em;
+	border-right: 1px solid white;
+	width: 18%;
+	height: 30px;
+}
+
+.Navigate a:hover
+{
+	background-color: #FF8040;
+}
+.Footer
+{
+    background-color: #C0C0C0;
+    font-size: 9pt;
+    text-align: center;
+    height: 25px;
+    line-height: 25px;
+    vertical-align: middle;
+    color: #006666;
+    width: 100%;
+    position: relative;
+    z-index: auto;
+}
+
+.Main
+{
+    height: 1000px;
+    width: 100%;
+    background-color: #C0F5F0;
+}
+
+.CourseList
+{
+	width: 100%;
+	font-size: 25px;
+	background-color: #C0F5F0;
+}
+
+#lbtnNewCourse
+{
+  font-size :20px;
+}
+
+.CourseList table
+{
+	width: 100%;
+	text-align: center;
+	font-size: 15px;
+}
+
+.ChangeForm
+{
+    width: 100%;
+    font-size: 25px;
+    background-color: #C0F5F0;
+    text-align: center;
+}
+.ChangeForm1
+{
+    width: 100%;
+    font-size: 25px;
+    background-color: #C0F5F0;
+    text-align: center;
+}
+
+.ChangeForm table
+{
+	width: 100%;
+	text-align: center;
+	font-size: 15px;
+	  border-collapse:collapse;
+}
+/*GridView-Style特定的样式*/
+.GridView-Style
+{
+    font-family: 宋体,方正姚体,华文宋体;
+    font-size: 12px;
+    white-space: nowrap;
+    text-align: center;
+    text-indent: 5px;
+}
+
+/*GridView头部*/
+.GridView-Style th
+{
+    text-align: Center;
+    text-indent: 5px;
+    white-space: nowrap;
+    border: Gray 1px solid;
+}
+
+.GridView-Style th a
+{
+    text-decoration: none;
+}
+
+.GridView-Style th a:hover
+{
+    text-decoration: underline;
+}
+.tableBorder
+{
+}
+.tableBorder td
+{
+    background: #d7e9fe;
+    border-left: solid 1px Gray;
+    border-right: solid 1px Gray;
+    border-collapse: collapse;
+}
+.watermarked
+{
+    height: 15px;
+    width: 148px;
+    color: Black;
+    background-color: #F0F8FF;
+    border-width: thin;
+}
+.SelectAgency
+{
+    margin-bottom:2px;
+    margin-top: 2px;
+    background-color: White;
+    border-color:#CCCCCC;
+    border-width: 1px;
+    width: 120px;
+}
+
+
+
